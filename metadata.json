@@ -1,0 +1,5 @@
+{
+  "name": "OMNI Nexus",
+  "description": "An unrestricted conversational AI interface using Gemini Live API.",
+  "requestFramePermissions": ["microphone"]
+}
